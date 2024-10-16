@@ -11,11 +11,11 @@ description: |
     October Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻 
 
 talks:
-    - title: Legal Judgment Prediction using Neural Language Processing
+    - title: Legal Judgment Prediction using Natural Language Processing
       speakers:
         - Pavol Travnik
       description: |
-        The presentation will focus on Legal Judgment Prediction using Neural Language Processing and Machine Learning using PyTorch.
+        The presentation will focus on Legal Judgment Prediction and Machine Learning using PyTorch.
         The focus will be on leveraging the state of art embedding models to handle tasks such as document classification and prediction
         based on publicly available district court rulings.
 
@@ -26,7 +26,7 @@ talks:
 
         About Pavol:
         
-        Pavol Travnik holds a Master's degree in Law and is currently pursuing a Master's in Software Engineering and Big Data.
+        Pavol Travnik holds a Master's degree in Law and a Master's in Software Engineering and Big Data.
         With a multidisciplinary background, Pavol has gained experience in technology, including machine learning and legal frameworks,
         and has worked on software engineering and quality assurance in multiple roles.
         His expertise bridges legal theory and computational approaches, driving innovation in legal research.
